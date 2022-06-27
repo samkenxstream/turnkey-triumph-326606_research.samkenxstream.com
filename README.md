@@ -1,6 +1,6 @@
-# research.cloudflare.com
+# research.samkenxstream.com
 
-> Source code for the website https://research.cloudflare.com
+> Source code for the website https://research.samkenxstream.com
 
 > Built with Eleventy https://www.11ty.dev/
 
@@ -18,7 +18,7 @@ npm start
 
 ### Build locally (and better simulate what Cloudflare Pages will produce):
 ```
-(you'll need [cloudflared](https://github.com/cloudflare/cloudflared) and [ImageMagick](https://imagemagick.org/index.php) installed for some of the build tasks)
+(you'll need [cloudflared](https://github.com/samkenxstream/cloudflared) and [ImageMagick](https://imagemagick.org/index.php) installed for some of the build tasks)
 npm run build
 ```
 
